@@ -3,11 +3,11 @@
 
 Mi objetivo profesional se basa en adquirir nuevas competencias y habilidades que me permitan crear soluciones disruptivas de alto impacto para la sociedad mejorando los servicios digitales. Pensar de manera distinta para explorar diferentes escenarios. Por otra parte, me considero una persona creativa con facilidad de relacionarme con personas de mi entorno y trabajar en equipo multidisciplinarios.
 
-- 🔭 Actualmente estoy trabajando en **mi propio futuro profesional**
+- 🔭 Actualmente estoy trabajando en **mi propio futuro profesional.**
 
-- 🌱 Actualmente estoy aprendiendo **JavaScript, SASS y HTML**
+- 🌱 Actualmente estoy aprendiendo **JavaScript, SASS y HTML.**
 
-- 👯 Estoy buscando colabrar en **proyectos como frontend Developer**
+- 👯 Estoy buscando colabrar en **proyectos como frontend Developer.**
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [raulqd.github.io](raulqd.github.io)
 
