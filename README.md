@@ -1,6 +1,9 @@
 # Hi there, Mi nombre es Raul.👋 
-#### Desarrollador Front-end
+
 Mi objetivo profesional se basa en adquirir nuevas competencias y habilidades que me permitan crear soluciones disruptivas de alto impacto para la sociedad mejorando los servicios digitales. Pensar de manera distinta para explorar diferentes escenarios. Por otra parte, me considero una persona creativa con facilidad de relacionarme con personas de mi entorno y trabajar en equipo multidisciplinarios.
+
+## Desarrollador Front-end
+
 
 Skills: JavaScript / HTML / CSS or SASS
 
