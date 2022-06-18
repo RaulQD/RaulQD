@@ -5,7 +5,7 @@ Mi objetivo profesional se basa en adquirir nuevas competencias y habilidades qu
 
 ## Mis actividades
 
-- 🔭 Actualmente estoy trabajando en **mi propio futuro profesional**
+- 🔭 Actualmente estoy trabajando en **mi propio futuro profesional.**
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript, SASS.**
 
