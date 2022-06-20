@@ -13,7 +13,7 @@ Mi objetivo profesional se basa en adquirir nuevas competencias y habilidades qu
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://raulqd.github.io/](https://raulqd.github.io/)
 
-- 📫 Como llegar a mi **raul.g.quispe@gmail.com**
+- 📫 Como contactarme **raul.g.quispe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
