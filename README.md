@@ -9,7 +9,7 @@ Mi objetivo profesional se basa en adquirir nuevas competencias y habilidades qu
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript, SASS y HTML.**
 
-- 👯 Estoy buscando colabrar en **proyectos como frontend Developer.**
+- 👯 Estoy buscando colaborar en **proyectos como frontend Developer.**
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://raulqd.github.io/](https://raulqd.github.io/)
 
